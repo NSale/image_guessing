@@ -1,0 +1,7 @@
+Flask
+flask_restul
+pymongo
+bcrypt
+numpy
+tensorflow
+requests
