@@ -1,5 +1,5 @@
 Flask
-flask_restul
+flask_restful
 pymongo
 bcrypt
 numpy
